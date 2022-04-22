@@ -124,7 +124,7 @@ body {
   height: 50vh;
   margin: auto 0;
   padding: 2rem 3rem;
-  animation: fadeIn 1.5s;
+  animation: fadeIn 2s;
 }
 
 @keyframes fadeIn {
