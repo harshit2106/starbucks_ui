@@ -108,8 +108,10 @@ body {
 
 .head-text {
   font-size: 7vh;
-  font-family: 'Anton', sans-serif;
-  font-weight: 600;
+  font-family: 'Roboto', sans-serif;
+  /* font-weight: 900; */
+  /* font-family: 'Anton', sans-serif;
+  font-weight: 600; */
 }
 
 .head-starbucks {
@@ -197,9 +199,10 @@ body {
 .section {
   font-size: 2rem;
   text-align: center;
-  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
-  font-family: 'Anton', sans-serif;
-  font-weight: 500;
+
+  /* font-family: 'Anton', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+  /* font-weight: 700; */
 
 }
 
@@ -398,8 +401,9 @@ ul {
   .section {
     font-size: 1.5rem;
     text-align: center;
-    font-family: 'Anton', sans-serif;
-    font-weight: 500;
+    /* font-family: 'Anton', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: 700; */
   }
 
   .paddin-t {
@@ -683,8 +687,9 @@ ul {
   .section {
     font-size: 1.1rem;
     text-align: center;
-    font-family: 'Anton', sans-serif;
-    font-weight: 500;
+    /* font-family: 'Anton', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: 700; */
 
   }
 
