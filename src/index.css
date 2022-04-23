@@ -109,7 +109,7 @@ body {
 .head-text {
   font-size: 7vh;
   font-family: 'Anton', sans-serif;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .head-starbucks {
@@ -197,7 +197,10 @@ body {
 .section {
   font-size: 2rem;
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+  font-family: 'Anton', sans-serif;
+  font-weight: 500;
+
 }
 
 .color {
