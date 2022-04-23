@@ -5,7 +5,7 @@ const Cards = ({ heading, description, xtraClass, src, clr }) => {
     <div className={`card  flex ${clr}`}>
       <img src={src} alt="black" className={xtraClass} />
       <div className="m-left">
-        <div className="sub-head bold-text">{heading}</div>
+        <div className="sub-head">{heading}</div>
         <div className="xs">{description}</div>
       </div>
     </div>

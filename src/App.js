@@ -30,7 +30,7 @@ function App() {
       </section>
       {/* ----------------------------- */}
       <section className="bottom" id="menu">
-        <div className="section bottom bold-text">
+        <div className="section bottom">
           Our New <span className="color">Frappuccino</span>
         </div>
 
@@ -73,7 +73,7 @@ function App() {
             </div>
 
             <div>
-              <div className="section pad-2 bold-text">
+              <div className="section pad-2 ">
                 Now Available on <span className="color">Uber Eats</span>
               </div>
               <div className="padding-t  justify-content-center align-item-center ">
@@ -105,7 +105,7 @@ function App() {
             </div>
 
             <div>
-              <div className="section pad-2 bold-text">
+              <div className="section pad-2 ">
                 Earning <span className="color">4,500 Bonus</span> Stars is
                 Super Starifying
               </div>

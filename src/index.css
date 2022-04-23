@@ -109,9 +109,8 @@ body {
 .head-text {
   font-size: 7vh;
   font-family: 'Roboto', sans-serif;
-  /* font-weight: 900; */
-  /* font-family: 'Anton', sans-serif;
-  font-weight: 600; */
+  font-weight: 900;
+
 }
 
 .head-starbucks {
@@ -199,11 +198,8 @@ body {
 .section {
   font-size: 2rem;
   text-align: center;
-
-  /* font-family: 'Anton', sans-serif; */
   font-family: 'Roboto', sans-serif;
-  /* font-weight: 700; */
-
+  font-weight: 900;
 }
 
 .color {
@@ -216,7 +212,8 @@ body {
 
 .sub-head {
   font-size: 1rem;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
   margin-bottom: 1rem;
   white-space: nowrap;
 }
@@ -401,9 +398,8 @@ ul {
   .section {
     font-size: 1.5rem;
     text-align: center;
-    /* font-family: 'Anton', sans-serif; */
     font-family: 'Roboto', sans-serif;
-    /* font-weight: 700; */
+    font-weight: 900;
   }
 
   .paddin-t {
@@ -457,9 +453,7 @@ ul {
 
   .sub-head {
     font-size: 0.9rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-bottom: 0.5rem;
-    white-space: nowrap;
+    margin-bottom: 0.7rem;
   }
 
   footer>div>ul {
@@ -593,13 +587,21 @@ ul {
     height: 9%;
 
   }
+
+  .xs {
+    font-size: 0.8rem;
+  }
 }
 
 @media screen and (max-width: 330px) {
 
+  .sub-head {
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
 
   .xs {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
   }
 
   .black-img {
@@ -687,9 +689,8 @@ ul {
   .section {
     font-size: 1.1rem;
     text-align: center;
-    /* font-family: 'Anton', sans-serif; */
     font-family: 'Roboto', sans-serif;
-    /* font-weight: 700; */
+    font-weight: 900;
 
   }
 
