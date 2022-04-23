@@ -398,7 +398,8 @@ ul {
   .section {
     font-size: 1.5rem;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Anton', sans-serif;
+    font-weight: 500;
   }
 
   .paddin-t {
@@ -682,7 +683,9 @@ ul {
   .section {
     font-size: 1.1rem;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Anton', sans-serif;
+    font-weight: 500;
+
   }
 
   .pad-2 {
